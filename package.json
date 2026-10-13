@@ -1,4 +1,12 @@
 {
+  "name": "ga-digital-solutions",
+  "version": "1.0.0",
+  "description": "GA Digital Solutions - Agency Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js"
+  },
   "devDependencies": {
     "puppeteer": "^25.12.0"
   }
