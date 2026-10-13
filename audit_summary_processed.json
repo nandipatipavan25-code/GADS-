@@ -1,0 +1,1440 @@
+{
+  "robotsStatus": 200,
+  "robotsTxt": "User-agent: *\nAllow: /\n\nSitemap: https://gadigitalsolutions.com/sitemap-index.xml\nSitemap: https://gadigitalsolutions.com/sitemap-index-1.xml\nSitemap: https://gadigitalsolutions.com/sitemap.xml\n\nUser-agent: *\nDisallow: /education/\n",
+  "sitemapStatus": 200,
+  "sitemapCount": 111,
+  "sitemapUrls": [
+    "https://gadigitalsolutions.com/",
+    "https://gadigitalsolutions.com/portfolio",
+    "https://gadigitalsolutions.com/careers",
+    "https://gadigitalsolutions.com/intern/exam_application",
+    "https://gadigitalsolutions.com/contact",
+    "https://gadigitalsolutions.com/design-portfolio/",
+    "https://gadigitalsolutions.com/services/branding",
+    "https://gadigitalsolutions.com/services/logo-design-hyderabad",
+    "https://gadigitalsolutions.com/services/brand-guidelines",
+    "https://gadigitalsolutions.com/services/brochure-design",
+    "https://gadigitalsolutions.com/services/website-development",
+    "https://gadigitalsolutions.com/services/website-redesign",
+    "https://gadigitalsolutions.com/services/website-maintenance",
+    "https://gadigitalsolutions.com/services/malware-removal",
+    "https://gadigitalsolutions.com/services/web-app-development",
+    "https://gadigitalsolutions.com/services/app-development",
+    "https://gadigitalsolutions.com/services/content-writing",
+    "https://gadigitalsolutions.com/services/content-marketing-services",
+    "https://gadigitalsolutions.com/services/seo-hyderabad",
+    "https://gadigitalsolutions.com/services/social-media-management",
+    "https://gadigitalsolutions.com/services/search-engine-marketing",
+    "https://gadigitalsolutions.com/services/social-media-ads",
+    "https://gadigitalsolutions.com/services/sms-marketing",
+    "https://gadigitalsolutions.com/services/email-marketing",
+    "https://gadigitalsolutions.com/services/whatsapp-marketing",
+    "https://gadigitalsolutions.com/services/inside-sales",
+    "https://gadigitalsolutions.com/services/customer-support",
+    "https://gadigitalsolutions.com/services/customer-engagement",
+    "https://gadigitalsolutions.com/coming-soon",
+    "https://gadigitalsolutions.com/about",
+    "https://gadigitalsolutions.com/services/",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/performance-marketing-hyderabad",
+    "https://gadigitalsolutions.com/services/lead-generation",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+    "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-for-healthcare",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-contract-what-to-include",
+    "https://gadigitalsolutions.com/blogs/outsource-website-maintenance-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-services-hyderabad",
+    "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+    "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+    "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+    "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+    "https://gadigitalsolutions.com/blogs/what-happens-if-you-dont-maintain-your-website",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+    "https://gadigitalsolutions.com/blogs/how-often-should-you-update-your-website",
+    "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+    "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+    "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+    "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+    "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+    "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+    "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+    "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+    "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+    "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+    "https://gadigitalsolutions.com/blogs/how-AI-is-transforming-digital-marketing-in-2025",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+    "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+    "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+    "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+    "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+    "https://gadigitalsolutions.com/blogs/how-to-share-facebook-ad-accountaccess-a-step-by-step-guide",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+    "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+    "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+    "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+    "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+    "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+    "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+    "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+    "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+    "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+    "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+    "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+    "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+    "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+    "https://gadigitalsolutions.com/blogs/digital-marketing-trends",
+    "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+    "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+    "https://gadigitalsolutions.com/design-portfolio/artworks",
+    "https://gadigitalsolutions.com/design-portfolio/video",
+    "https://gadigitalsolutions.com/design-portfolio/brochures",
+    "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+    "https://gadigitalsolutions.com/design-portfolio/wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+    "https://gadigitalsolutions.com/design-portfolio/story-land-library",
+    "https://gadigitalsolutions.com/blogs/what-is-web-development",
+    "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+    "https://gadigitalsolutions.com/blogs/why-does-my-business-need-a-website",
+    "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+    "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+    "https://gadigitalsolutions.com/blogs/what-makes-a-good-business-website",
+    "https://gadigitalsolutions.com/orm",
+    "https://gadigitalsolutions.com/design-portfolio/index",
+    "https://gadigitalsolutions.com/design-portfolio/reels",
+    "https://gadigitalsolutions.com/design-portfolio/content-video",
+    "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/lms-wireframes"
+  ],
+  "totalPages": 139,
+  "status200": 121,
+  "status301": 7,
+  "status404": 0,
+  "status409": 1,
+  "status5xx": 0,
+  "statusOther": 10,
+  "missingTitle": [
+    "https://gadigitalsolutions.com/enquiry",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/branding"
+  ],
+  "shortTitle": [
+    {
+      "url": "https://gadigitalsolutions.com/contact",
+      "title": "Contact us for Digital Marketing Services in Hyderabad - GA Digital Solutions",
+      "len": 77
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-development",
+      "title": "Website Design & Development Services in India | GA Digital Solutions",
+      "len": 69
+    },
+    {
+      "url": "https://gadigitalsolutions.com/intern/exam_application",
+      "title": "Application for Internship",
+      "len": 26
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-maintenance",
+      "title": "Website Maintenance Services: The Complete Guide for Indian Businesses (2026)",
+      "len": 77
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/",
+      "title": "Services",
+      "len": 8
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+      "title": "E-Commerce Website Maintenance: Protect Your Revenue and Keep Customers Returning (2026)",
+      "len": 88
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+      "title": "Website Speed Optimisation as a Maintenance Task: Why Slow Sites Lose Business (2026)",
+      "len": 85
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-for-healthcare",
+      "title": "Website Maintenance for Healthcare Businesses: What Clinics Must Keep Updated (2026)",
+      "len": 84
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-contract-what-to-include",
+      "title": "Website Maintenance Contract: What to Include Before You Sign (2026)",
+      "len": 68
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/outsource-website-maintenance-india",
+      "title": "Why Outsourcing Website Maintenance to an Indian Agency Makes Sense in 2026",
+      "len": 75
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-services-hyderabad",
+      "title": "Website Maintenance Services in Hyderabad: What to Know Before Hiring (2026)",
+      "len": 76
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+      "title": "Website Security Maintenance: Protect Your Business Website from Hacks (2026)",
+      "len": 77
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+      "title": "WordPress Website Maintenance: A Complete Guide for Business Owners in India (2026)",
+      "len": 83
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+      "title": "Website Maintenance Packages in India: What’s Included and How to Compare (2026)",
+      "len": 80
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+      "title": "How to Choose a Website Maintenance Company: 8 Questions to Ask (2026)",
+      "len": 70
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+      "title": "DIY vs Professional Website Maintenance: An Honest Comparison (2026)",
+      "len": 68
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+      "title": "Website Maintenance Cost in India (2026): What to Expect and What to Avoid",
+      "len": 74
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+      "title": "Website Maintenance vs Web Development: What’s the Difference? (2026)",
+      "len": 69
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+      "title": "The Complete Website Maintenance Checklist for Indian Businesses (2026)",
+      "len": 71
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+      "title": "Why Website Maintenance Is Important: 10 Risks of Neglecting Your Site",
+      "len": 70
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+      "title": "What Is Website Maintenance? Everything Business Owners Need to Know",
+      "len": 68
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+      "title": "Top 5 Digital Marketing Trends in India for 2026 — And What They Mean for Your Business",
+      "len": 87
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+      "title": "Google's 2025 Core Updates Explained — What Changed, Who Got Hit, and What to Do in 2026",
+      "len": 88
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+      "title": "Most Businesses Are Using AI Wrong. Here’s What Smart Digital Strategies Do Differently.",
+      "len": 88
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+      "title": "How to Build a 24/7 Customer Support System Without Hiring Internally",
+      "len": 69
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+      "title": "The Branding Blueprint: What Every Business Must Define Before Going Online",
+      "len": 75
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+      "title": "The Psychology of Website Design: How to Capture Attention and Drive Conversions",
+      "len": 80
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+      "title": "Why Your Business Needs a Strong Online Presence in Today's Digital World?",
+      "len": 74
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+      "title": "Maximizing Your ROI with Digital Advertising: Strategies for Success",
+      "len": 68
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+      "title": "Modern Web Technologies: Tools and Trends Transforming Website Development",
+      "len": 74
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+      "title": "Comprehensive Guide to SSL Certificates: Understanding Their Importance and Types",
+      "len": 81
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+      "title": "Algorithm Alert: Google January 2020 Core Update and Featured Snippet Algorithm – What you should know?",
+      "len": 103
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+      "title": "Brand Stationaries",
+      "len": 18
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/artworks",
+      "title": "Artworks/Poster Portfolio",
+      "len": 25
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/video",
+      "title": "Videos",
+      "len": 6
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brochures",
+      "title": "Brochures",
+      "len": 9
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+      "title": "corporate presentation",
+      "len": 22
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+      "title": "Logo Documentation",
+      "len": 18
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+      "title": "CNDU Fabrics",
+      "len": 12
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/what-is-web-development",
+      "title": "What Is Web Development? A Plain-Language Guide for Business Owners (2026)",
+      "len": 74
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+      "title": "Types of Websites Explained: Which One Is Right for Your Business?",
+      "len": 66
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+      "title": "Website Design vs Development: What’s the Difference and Why It Matters",
+      "len": 71
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+      "title": "How Long Does It Take to Build a Website? A Realistic Timeline for Indian Businesses",
+      "len": 84
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/index",
+      "title": "Our Services",
+      "len": 12
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/reels",
+      "title": "Reels",
+      "len": 5
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/content-video",
+      "title": "Content Videos",
+      "len": 14
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+      "title": "STORY LAND LIBRARY",
+      "len": 18
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+      "title": "CNDU FABRICS",
+      "len": 12
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/lms-wireframes",
+      "title": "The Learning Hub",
+      "len": 16
+    }
+  ],
+  "missingMetaDesc": [
+    "https://gadigitalsolutions.com/enquiry",
+    "https://gadigitalsolutions.com/orm",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/lead-generation",
+    "https://gadigitalsolutions.com/intern/exam_application",
+    "https://gadigitalsolutions.com/services/branding",
+    "https://gadigitalsolutions.com/services/",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+    "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+    "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+    "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+    "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+    "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+    "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+    "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+    "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+    "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+    "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+    "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+    "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+    "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+    "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+    "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+    "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+    "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+    "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+    "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+    "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+    "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+    "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+    "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+    "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+    "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+    "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+    "https://gadigitalsolutions.com/blogs/digital-marketing-trends",
+    "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+    "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+    "https://gadigitalsolutions.com/design-portfolio/artworks",
+    "https://gadigitalsolutions.com/design-portfolio/video",
+    "https://gadigitalsolutions.com/design-portfolio/brochures",
+    "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+    "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+    "https://gadigitalsolutions.com/design-portfolio/index",
+    "https://gadigitalsolutions.com/design-portfolio/reels",
+    "https://gadigitalsolutions.com/design-portfolio/content-video",
+    "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/lms-wireframes"
+  ],
+  "missingH1": [
+    "https://gadigitalsolutions.com/",
+    "https://gadigitalsolutions.com/about",
+    "https://gadigitalsolutions.com/our-works",
+    "https://gadigitalsolutions.com/websites",
+    "https://gadigitalsolutions.com/careers",
+    "https://gadigitalsolutions.com/internships",
+    "https://gadigitalsolutions.com/blog",
+    "https://gadigitalsolutions.com/contact",
+    "https://gadigitalsolutions.com/privacy-policy",
+    "https://gadigitalsolutions.com/enquiry",
+    "https://gadigitalsolutions.com/orm",
+    "https://gadigitalsolutions.com/services/brandidentities",
+    "https://gadigitalsolutions.com/services/website-development",
+    "https://gadigitalsolutions.com/services/website-maintenance-services",
+    "https://gadigitalsolutions.com/services/website-malware-removal",
+    "https://gadigitalsolutions.com/services/web-application",
+    "https://gadigitalsolutions.com/services/mobile-applications",
+    "https://gadigitalsolutions.com/services/content-development",
+    "https://gadigitalsolutions.com/services/seo",
+    "https://gadigitalsolutions.com/services/smm",
+    "https://gadigitalsolutions.com/services/sem",
+    "https://gadigitalsolutions.com/services/sms-marketing-services",
+    "https://gadigitalsolutions.com/services/email-marketing",
+    "https://gadigitalsolutions.com/services/whatsapp-marketing",
+    "https://gadigitalsolutions.com/services/inside-sales",
+    "https://gadigitalsolutions.com/services/customer-support",
+    "https://gadigitalsolutions.com/services/customer-engagement",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/performance-marketing-hyderabad",
+    "https://gadigitalsolutions.com/services/lead-generation",
+    "https://gadigitalsolutions.com/coming_soon",
+    "https://www.gadigitalsolutions.com/",
+    "https://gadigitalsolutions.com/portfolio",
+    "https://gadigitalsolutions.com/intern/exam_application",
+    "https://gadigitalsolutions.com/services/branding",
+    "https://gadigitalsolutions.com/services/logo-design-hyderabad",
+    "https://gadigitalsolutions.com/services/brand-guidelines",
+    "https://gadigitalsolutions.com/services/brochure-design",
+    "https://gadigitalsolutions.com/services/website-redesign",
+    "https://gadigitalsolutions.com/services/website-maintenance",
+    "https://gadigitalsolutions.com/services/malware-removal",
+    "https://gadigitalsolutions.com/services/web-app-development",
+    "https://gadigitalsolutions.com/services/app-development",
+    "https://gadigitalsolutions.com/services/content-writing",
+    "https://gadigitalsolutions.com/services/content-marketing-services",
+    "https://gadigitalsolutions.com/services/seo-hyderabad",
+    "https://gadigitalsolutions.com/services/social-media-management",
+    "https://gadigitalsolutions.com/services/search-engine-marketing",
+    "https://gadigitalsolutions.com/services/social-media-ads",
+    "https://gadigitalsolutions.com/services/sms-marketing",
+    "https://gadigitalsolutions.com/services/",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+    "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-for-healthcare",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-contract-what-to-include",
+    "https://gadigitalsolutions.com/blogs/outsource-website-maintenance-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-services-hyderabad",
+    "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+    "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+    "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+    "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+    "https://gadigitalsolutions.com/blogs/how-often-should-you-update-your-website",
+    "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+    "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+    "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+    "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+    "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+    "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+    "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+    "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+    "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+    "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+    "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+    "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+    "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+    "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+    "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+    "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+    "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+    "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+    "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+    "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+    "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+    "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+    "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+    "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+    "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+    "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+    "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+    "https://gadigitalsolutions.com/blogs/digital-marketing-trends"
+  ],
+  "multipleH1": [
+    {
+      "url": "https://gadigitalsolutions.com/coming-soon",
+      "h1s": [
+        "COMING SOON",
+        "COMING SOON"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+      "h1s": [
+        "1. Project Brief",
+        "2. Project Overview",
+        "3. Design Process",
+        "4. Solutions & Features",
+        "5. Technical development and scope",
+        "6. Outcomes & Impact",
+        "7. Key Learnings & Next Steps"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/what-is-web-development",
+      "h1s": [
+        "What Is Web Development? A Plain-Language Guide for Business Owners",
+        "What Is Web Development? A Plain-Language Guide for Business Owners"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+      "h1s": [
+        "Types of Websites Explained: Which One Is Right for Your Business?",
+        "Types of Websites Explained: Which One Is Right for Your Business?"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+      "h1s": [
+        "Website Design vs Development: What’s the Difference and Why It Matters",
+        "Website Design vs Development: What’s the Difference and Why It Matters"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+      "h1s": [
+        "How Long Does It Take to Build a Website? A Realistic Timeline for Indian Businesses",
+        "How Long Does It Take to Build a Website? A Realistic Timeline for Indian Businesses"
+      ]
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/index",
+      "h1s": [
+        "Every Pixel Tells a Story",
+        "From Idea to Impact"
+      ]
+    }
+  ],
+  "missingViewport": [],
+  "missingCanonical": [
+    "https://gadigitalsolutions.com/about",
+    "https://gadigitalsolutions.com/careers",
+    "https://gadigitalsolutions.com/contact",
+    "https://gadigitalsolutions.com/enquiry",
+    "https://gadigitalsolutions.com/orm",
+    "https://gadigitalsolutions.com/services/brandidentities",
+    "https://gadigitalsolutions.com/services/website-development",
+    "https://gadigitalsolutions.com/services/email-marketing",
+    "https://gadigitalsolutions.com/services/whatsapp-marketing",
+    "https://gadigitalsolutions.com/services/inside-sales",
+    "https://gadigitalsolutions.com/services/customer-support",
+    "https://gadigitalsolutions.com/services/customer-engagement",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/performance-marketing-hyderabad",
+    "https://gadigitalsolutions.com/services/lead-generation",
+    "https://gadigitalsolutions.com/portfolio",
+    "https://gadigitalsolutions.com/intern/exam_application",
+    "https://gadigitalsolutions.com/services/branding",
+    "https://gadigitalsolutions.com/services/logo-design-hyderabad",
+    "https://gadigitalsolutions.com/services/brand-guidelines",
+    "https://gadigitalsolutions.com/services/brochure-design",
+    "https://gadigitalsolutions.com/services/website-redesign",
+    "https://gadigitalsolutions.com/services/website-maintenance",
+    "https://gadigitalsolutions.com/services/malware-removal",
+    "https://gadigitalsolutions.com/services/web-app-development",
+    "https://gadigitalsolutions.com/services/app-development",
+    "https://gadigitalsolutions.com/services/content-writing",
+    "https://gadigitalsolutions.com/services/content-marketing-services",
+    "https://gadigitalsolutions.com/services/seo-hyderabad",
+    "https://gadigitalsolutions.com/services/social-media-management",
+    "https://gadigitalsolutions.com/services/search-engine-marketing",
+    "https://gadigitalsolutions.com/services/social-media-ads",
+    "https://gadigitalsolutions.com/services/sms-marketing",
+    "https://gadigitalsolutions.com/coming-soon",
+    "https://gadigitalsolutions.com/services/",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+    "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-for-healthcare",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-contract-what-to-include",
+    "https://gadigitalsolutions.com/blogs/outsource-website-maintenance-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-services-hyderabad",
+    "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+    "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+    "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+    "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+    "https://gadigitalsolutions.com/blogs/how-often-should-you-update-your-website",
+    "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+    "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+    "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+    "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+    "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+    "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+    "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+    "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+    "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+    "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+    "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+    "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+    "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+    "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+    "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+    "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+    "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+    "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+    "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+    "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+    "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+    "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+    "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+    "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+    "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+    "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+    "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+    "https://gadigitalsolutions.com/blogs/digital-marketing-trends",
+    "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+    "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+    "https://gadigitalsolutions.com/design-portfolio/artworks",
+    "https://gadigitalsolutions.com/design-portfolio/video",
+    "https://gadigitalsolutions.com/design-portfolio/brochures",
+    "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+    "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+    "https://gadigitalsolutions.com/blogs/what-is-web-development",
+    "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+    "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+    "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+    "https://gadigitalsolutions.com/design-portfolio/index",
+    "https://gadigitalsolutions.com/design-portfolio/reels",
+    "https://gadigitalsolutions.com/design-portfolio/content-video",
+    "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/lms-wireframes"
+  ],
+  "canonicalMismatch": [
+    {
+      "url": "https://gadigitalsolutions.com/our-works",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/websites",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/internships",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/privacy-policy",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-maintenance-services",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-malware-removal",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/web-application",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/mobile-applications",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/content-development",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/seo",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/smm",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/sem",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/sms-marketing-services",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/coming_soon",
+      "canonical": "https://gadigitalsolutions.com/"
+    },
+    {
+      "url": "https://www.gadigitalsolutions.com/",
+      "canonical": "https://gadigitalsolutions.com/"
+    }
+  ],
+  "totalImagesCount": 4248,
+  "missingAltImagesTotal": 1803,
+  "phpLinksPages": [
+    {
+      "url": "https://gadigitalsolutions.com/",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/about",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/our-works",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/websites",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/careers",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/internships",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blog",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/contact",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/privacy-policy",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/enquiry",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/orm",
+      "count": 55
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/brandidentities",
+      "count": 68
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-development",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-maintenance-services",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-malware-removal",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/web-application",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/mobile-applications",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/content-development",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/seo",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/smm",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/sem",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/sms-marketing-services",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/email-marketing",
+      "count": 56
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/whatsapp-marketing",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/inside-sales",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/customer-support",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/customer-engagement",
+      "count": 54
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-services-hyderabad",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/application-development-hyderabad",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/content-marketing",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/performance-marketing-hyderabad",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/lead-generation",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/coming_soon",
+      "count": 44
+    },
+    {
+      "url": "https://www.gadigitalsolutions.com/",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/portfolio",
+      "count": 47
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/branding",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/logo-design-hyderabad",
+      "count": 53
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/brand-guidelines",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/brochure-design",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-redesign",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/website-maintenance",
+      "count": 84
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/malware-removal",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/web-app-development",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/app-development",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/content-writing",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/content-marketing-services",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/seo-hyderabad",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/social-media-management",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/search-engine-marketing",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/social-media-ads",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/sms-marketing",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/coming-soon",
+      "count": 44
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+      "count": 54
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-for-healthcare",
+      "count": 50
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-contract-what-to-include",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/outsource-website-maintenance-india",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-services-hyderabad",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+      "count": 54
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-often-should-you-update-your-website",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+      "count": 52
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+      "count": 54
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+      "count": 54
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+      "count": 48
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/digital-marketing-trends",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/artworks",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/video",
+      "count": 3
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brochures",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+      "count": 1
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/what-is-web-development",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+      "count": 46
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/index",
+      "count": 10
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/reels",
+      "count": 2
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/content-video",
+      "count": 2
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+      "count": 2
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+      "count": 2
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/lms-wireframes",
+      "count": 2
+    }
+  ],
+  "zeroSchemas": [
+    "https://gadigitalsolutions.com/about",
+    "https://gadigitalsolutions.com/careers",
+    "https://gadigitalsolutions.com/blog",
+    "https://gadigitalsolutions.com/contact",
+    "https://gadigitalsolutions.com/enquiry",
+    "https://gadigitalsolutions.com/orm",
+    "https://gadigitalsolutions.com/services/brandidentities",
+    "https://gadigitalsolutions.com/services/email-marketing",
+    "https://gadigitalsolutions.com/services/whatsapp-marketing",
+    "https://gadigitalsolutions.com/services/inside-sales",
+    "https://gadigitalsolutions.com/services/customer-support",
+    "https://gadigitalsolutions.com/services/customer-engagement",
+    "https://gadigitalsolutions.com/services/website-services-hyderabad",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad",
+    "https://gadigitalsolutions.com/services/content-marketing",
+    "https://gadigitalsolutions.com/services/performance-marketing-hyderabad",
+    "https://gadigitalsolutions.com/services/lead-generation",
+    "https://gadigitalsolutions.com/portfolio",
+    "https://gadigitalsolutions.com/intern/exam_application",
+    "https://gadigitalsolutions.com/services/branding",
+    "https://gadigitalsolutions.com/services/logo-design-hyderabad",
+    "https://gadigitalsolutions.com/services/brand-guidelines",
+    "https://gadigitalsolutions.com/services/brochure-design",
+    "https://gadigitalsolutions.com/services/website-redesign",
+    "https://gadigitalsolutions.com/services/website-maintenance",
+    "https://gadigitalsolutions.com/services/malware-removal",
+    "https://gadigitalsolutions.com/services/web-app-development",
+    "https://gadigitalsolutions.com/services/app-development",
+    "https://gadigitalsolutions.com/services/content-writing",
+    "https://gadigitalsolutions.com/services/content-marketing-services",
+    "https://gadigitalsolutions.com/services/seo-hyderabad",
+    "https://gadigitalsolutions.com/services/social-media-management",
+    "https://gadigitalsolutions.com/services/search-engine-marketing",
+    "https://gadigitalsolutions.com/services/social-media-ads",
+    "https://gadigitalsolutions.com/services/sms-marketing",
+    "https://gadigitalsolutions.com/coming-soon",
+    "https://gadigitalsolutions.com/services/application-development-hyderabad/",
+    "https://gadigitalsolutions.com/blogs/ecommerce-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-speed-optimisation-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-security-maintenance",
+    "https://gadigitalsolutions.com/blogs/wordpress-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-packages-india",
+    "https://gadigitalsolutions.com/blogs/how-to-choose-website-maintenance-company",
+    "https://gadigitalsolutions.com/blogs/diy-vs-professional-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-cost-india",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-vs-web-development",
+    "https://gadigitalsolutions.com/blogs/website-maintenance-checklist",
+    "https://gadigitalsolutions.com/blogs/how-often-should-you-update-your-website",
+    "https://gadigitalsolutions.com/blogs/why-website-maintenance-is-important",
+    "https://gadigitalsolutions.com/blogs/what-is-website-maintenance",
+    "https://gadigitalsolutions.com/blogs/top-5-digital-marketing-trends-in-india-for-2026-and-what-they-mean-for-your-business",
+    "https://gadigitalsolutions.com/blogs/google-2025-core-updates-explained-what-changed-who-got-hit-and-what-to-do-in-2026",
+    "https://gadigitalsolutions.com/blogs/most-businesses-are-using-AI-wrong-heres-what-smart-digital-strategies-do-differently",
+    "https://gadigitalsolutions.com/blogs/how-to-build-a-24-7-customer-support-system-without-hiring-internally",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-user-behavior-every-business-should-know",
+    "https://gadigitalsolutions.com/blogs/the-branding-blueprint-what-every-business-must-define-before-going-online",
+    "https://gadigitalsolutions.com/blogs/marketing-is-changing-what-customers-really-expect-in-2026",
+    "https://gadigitalsolutions.com/blogs/how-to-validate-your-app-idea-before-development",
+    "https://gadigitalsolutions.com/blogs/why-website-speed-matters-the-SEO-UX-connection",
+    "https://gadigitalsolutions.com/blogs/the-importance-of-high-quality-product-images-in-online-sales",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-mobile-optimized-website",
+    "https://gadigitalsolutions.com/blogs/10-signs-its-time-to-rebrand-your-business",
+    "https://gadigitalsolutions.com/blogs/5-ways-to-repurpose-your-content-across-platforms",
+    "https://gadigitalsolutions.com/blogs/the-benefits-of-omnichannel-marketing-for-your-business",
+    "https://gadigitalsolutions.com/blogs/how-to-create-a-successful-pay-per-click-ppc-campaign",
+    "https://gadigitalsolutions.com/blogs/the-psychology-of-website-design-how-to-capture-attention-and-drive-conversions",
+    "https://gadigitalsolutions.com/blogs/why-your-business-needs-a-strong-online-presence-in-today's-digital-world",
+    "https://gadigitalsolutions.com/blogs/business-vs.-personal-should-your-instagram-be-separate",
+    "https://gadigitalsolutions.com/blogs/a_definitive_guide_to_building_a_powerful_brand_identity",
+    "https://gadigitalsolutions.com/blogs/differences_between_organic_and_paid_digital_marketing",
+    "https://gadigitalsolutions.com/blogs/maximizing_your_roi_with_digital_advertising_strategies_for_success",
+    "https://gadigitalsolutions.com/blogs/social_media_strategies_for_business_growth",
+    "https://gadigitalsolutions.com/blogs/online-reputation-management-why-it-matters",
+    "https://gadigitalsolutions.com/blogs/customer-engagement-toolservises",
+    "https://gadigitalsolutions.com/blogs/the-impact-of-seo-on-your-online-success",
+    "https://gadigitalsolutions.com/blogs/planning-to-redesign-your-website",
+    "https://gadigitalsolutions.com/blogs/is-your-website-ready-for-digital-promotions",
+    "https://gadigitalsolutions.com/blogs/available-web-technologies-for-website-development",
+    "https://gadigitalsolutions.com/blogs/SSL-certificates-and-usage",
+    "https://gadigitalsolutions.com/blogs/google-january-2020-core-update",
+    "https://gadigitalsolutions.com/blogs/digital-marketing-trends",
+    "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+    "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+    "https://gadigitalsolutions.com/design-portfolio/artworks",
+    "https://gadigitalsolutions.com/design-portfolio/video",
+    "https://gadigitalsolutions.com/design-portfolio/brochures",
+    "https://gadigitalsolutions.com/design-portfolio/corporate-presentation",
+    "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-fabrics",
+    "https://gadigitalsolutions.com/blogs/what-is-web-development",
+    "https://gadigitalsolutions.com/blogs/types-of-websites-for-business",
+    "https://gadigitalsolutions.com/blogs/website-design-vs-development",
+    "https://gadigitalsolutions.com/blogs/how-long-does-it-take-to-build-a-website",
+    "https://gadigitalsolutions.com/design-portfolio/index",
+    "https://gadigitalsolutions.com/design-portfolio/reels",
+    "https://gadigitalsolutions.com/design-portfolio/content-video",
+    "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+    "https://gadigitalsolutions.com/design-portfolio/lms-wireframes"
+  ],
+  "thinContent": [
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/logo-brand",
+      "wordCount": 53,
+      "title": "Logo Design / Brand Identities"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brand-stationaries",
+      "wordCount": 53,
+      "title": "Brand Stationaries"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/artworks",
+      "wordCount": 58,
+      "title": "Artworks/Poster Portfolio"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/video",
+      "wordCount": 99,
+      "title": "Videos"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/brochures",
+      "wordCount": 46,
+      "title": "Brochures"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/logo-documentation",
+      "wordCount": 110,
+      "title": "Logo Documentation"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/reels",
+      "wordCount": 36,
+      "title": "Reels"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/content-video",
+      "wordCount": 39,
+      "title": "Content Videos"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/story-land-wireframes",
+      "wordCount": 93,
+      "title": "STORY LAND LIBRARY"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/cndu-wireframes",
+      "wordCount": 95,
+      "title": "CNDU FABRICS"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio/lms-wireframes",
+      "wordCount": 81,
+      "title": "The Learning Hub"
+    }
+  ],
+  "redirectList": [
+    {
+      "url": "https://gadigitalsolutions.com/services",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/services/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/design-portfolio",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/design-portfolio/"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/index.php",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/index"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/about.php",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/about"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/services.php",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/services"
+    },
+    {
+      "url": "https://gadigitalsolutions.com/blog.php",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/blog"
+    },
+    {
+      "url": "http://gadigitalsolutions.com/",
+      "status": 301,
+      "target": "https://gadigitalsolutions.com/"
+    }
+  ]
+}

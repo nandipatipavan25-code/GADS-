@@ -1,0 +1,54 @@
+{
+  "title": "Alkemy — Federated E-Commerce Marketplace | Merchants Own Their Customers | Alkemy",
+  "bodyBg": "rgb(5, 5, 8)",
+  "bodyColor": "lab(7.25373 1.57871 6.11279)",
+  "bodyFont": "Arial, \"Helvetica Neue\", Inter, sans-serif",
+  "h1Font": "\"Cormorant Garamond\", \"Cormorant Garamond Fallback\"",
+  "h1Size": "104px",
+  "h1Weight": "300",
+  "h1LetterSpacing": "-1.04px",
+  "navBg": "rgba(0, 0, 0, 0)",
+  "buttons": [
+    {
+      "text": "AALKEMY",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(192, 192, 208)",
+      "border": "0px none rgb(192, 192, 208)",
+      "borderRadius": "0px",
+      "padding": "0px"
+    },
+    {
+      "text": "Features",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(168, 168, 192)",
+      "border": "0px none rgb(168, 168, 192)",
+      "borderRadius": "0px",
+      "padding": "0px"
+    },
+    {
+      "text": "Pricing",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(168, 168, 192)",
+      "border": "0px none rgb(168, 168, 192)",
+      "borderRadius": "0px",
+      "padding": "0px"
+    },
+    {
+      "text": "Compare",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(168, 168, 192)",
+      "border": "0px none rgb(168, 168, 192)",
+      "borderRadius": "0px",
+      "padding": "0px"
+    },
+    {
+      "text": "About",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(168, 168, 192)",
+      "border": "0px none rgb(168, 168, 192)",
+      "borderRadius": "0px",
+      "padding": "0px"
+    }
+  ],
+  "htmlSnippet": "<div hidden=\"\"></div><script nonce=\"dZdirUiBtxER1V45AhS1yQ==\">(function () {\n  try {\n    var raw = localStorage.getItem('alkemy-theme');\n    var theme = 'dark';\n    if (raw) {\n      var parsed = JSON.parse(raw);\n      if (parsed && parsed.state && parsed.state.theme) theme = parsed.state.theme;\n    }\n    if (theme === 'system') {\n      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';\n    }\n    document.documentElement.setAttribute('data-theme', theme);\n  } catch (e) {\n    document.documentElement.setAttribute('data-theme', 'dark');\n  }\n})();</script><script nonce=\"dZdirUiBtxER1V45AhS1yQ==\">(function () {\n  var KEY = 'alkemy_chunk_reload_at';\n  var COOLDOWN_MS = 30000;\n  var PATTERNS = [\n    /ChunkLoadError/i,\n    /Loading chunk [^ ]+ failed/i,\n    /Failed to fetch dynamically imported module/i,\n    /Importing a module script failed/i\n  ];\n\n  function getMessage(input) {\n    if (!input) return '';\n    if (typeof input === 'string') return input;\n    if (typeof input.message === 'string') return input.message;\n    if (input.reason) return getMessage(input.reason);\n    return '';\n  }\n\n  function isChunkError(input) {\n    var message = getMessage(input);\n    if (!message) return false;\n    for (var i = 0; i < PATTERNS.length; i++) {\n      if (PATTERNS[i].test(message)) return true;\n    }\n    return false;\n  }\n\n  function reloadOnce() {\n    try {\n      var now = Date.now();\n      var lastRaw = sessionStorage.getItem(KEY);\n      var last = lastRaw ? Number(lastRaw) : 0;\n      if (now - last < COOLDOWN_MS) return;\n      sessionStorage.setItem(KEY, String(now));\n      window.location.reload();\n    } catch (e) {\n      window.location.reload();\n    }\n  }\n\n  window.addEventListener('error', function (event) {\n    var input = event && (event.error || event.message) ? (event.error || event.message) : event;\n    if (isChunkError(input)) reloadOnce();\n  });\n\n  window.addEventListener('unhandledrejection', function (event) {\n    var input = event && event.reason ? event.reason : event;\n    if (isChunkError(input)) reloadOnce();\n  });\n})();</script><script nonce=\"dZdirUiBtxER1V45AhS1yQ==\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://alkemy.com/#organization\",\"name\":\"Alkemy\",\"url\":\"https://alkemy.com\",\"logo\":\"https://alkemy.com/icon.png\",\"description\":\"Federated e-commerce marketplace where merchants are the merchant of record. Direct Stripe payouts, real customer emails, no platform lock-in.\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Edmonton\",\"addressRegion\":\"AB\",\"addressCountry\":\"CA\"}},{\"@type\":\"WebSite\",\"@id\":\"https://alkemy.com/#website\",\"url\":\"https://alkemy.com\",\"name\":\"Alkemy\",\"description\":\"The federated marketplace where merchants own their customers, their data, and their revenue.\",\"publisher\":{\"@id\":\"https://alkemy.com/#organization\"}}]}</script><div data-storefront=\"true\" style=\"min-height:100dvh;display:flex;flex-direction:column\"><!--$-->"
+}
