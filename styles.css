@@ -19,6 +19,13 @@
   --primary-blue: #1a4895;
   --cyan-glow: rgba(34, 150, 211, 0.18);
   --cyan-subtle: rgba(34, 150, 211, 0.08);
+
+  /* Rich Blue Shared Gradients */
+  --grad-blue-vibrant: linear-gradient(135deg, #1a4895 0%, #2296d3 50%, #38bdf8 100%);
+  --grad-blue-deep: linear-gradient(135deg, #07152b 0%, #0d2857 55%, #1a4895 100%);
+  --grad-blue-glow: radial-gradient(circle, rgba(34, 150, 211, 0.28) 0%, rgba(26, 72, 149, 0.12) 50%, transparent 75%);
+  --grad-blue-badge: linear-gradient(135deg, rgba(26, 72, 149, 0.1) 0%, rgba(34, 150, 211, 0.18) 100%);
+
   --bg-deep: #f8fafc;
   --bg-surface: #ffffff;
   --bg-surface-elevated: #f1f5f9;
@@ -30,8 +37,8 @@
   --text-dim: #334155;          /* Body text */
   --text-muted: #64748b;        /* Secondary/muted */
   --text-cyan: #0284c7;         /* High-contrast brand cyan */
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-display: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --container-max: 1280px;
   --radius-sm: 8px;
   --radius-md: 14px;
@@ -99,7 +106,7 @@ button {
 }
 
 /* ==========================================================================
-   NAVIGATION BAR (LIGHT FROSTED GLASS)
+   NAVIGATION BAR (DARK LUXURY NAV WITH BLUE SHADED GRADIENTS)
    ========================================================================== */
 .site-header {
   position: fixed;
@@ -107,22 +114,21 @@ button {
   left: 0;
   right: 0;
   z-index: 1000;
-  background: rgba(255, 255, 255, 0.86);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border-bottom: 1px solid rgba(226, 232, 240, 0.7);
+  background: linear-gradient(180deg, #07152b 0%, #0a1e3d 100%);
+  border-bottom: 1px solid rgba(56, 189, 248, 0.16);
+  box-shadow: 0 4px 24px rgba(4, 13, 26, 0.35);
   transition: all var(--transition-smooth);
-  padding: 14px 0;
+  padding: 12px 0;
 }
 
 .site-header.scrolled {
   top: 0;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(7, 21, 43, 0.94);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid var(--border-subtle);
-  padding: 12px 0;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(56, 189, 248, 0.25);
+  padding: 10px 0;
+  box-shadow: 0 8px 32px rgba(4, 13, 26, 0.55);
 }
 
 .nav-container {
@@ -137,12 +143,21 @@ button {
   align-items: center;
   gap: 12px;
   text-decoration: none;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 5px 12px;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  transition: transform var(--transition-fast);
+}
+
+.brand-logo-wrap:hover {
+  transform: translateY(-1px);
 }
 
 .brand-logo-img {
-  height: 54px;
+  height: 44px;
   width: auto;
-  margin: -4px 0;
+  margin: -2px 0;
   object-fit: contain;
 }
 
@@ -159,21 +174,21 @@ button {
   align-items: center;
   gap: 7px;
   font-family: var(--font-display);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 500;
-  color: #334155;
+  color: #cbd5e1;
   transition: all var(--transition-fast);
   position: relative;
   padding: 8px 6px;
   text-decoration: none;
-  letter-spacing: -0.005em;
+  letter-spacing: 0.01em;
 }
 
 .nav-link-icon {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #64748b;
+  color: #38bdf8;
   transition: all var(--transition-fast);
 }
 
@@ -194,24 +209,24 @@ button {
   left: 0;
   width: 0;
   height: 2px;
-  background: linear-gradient(90deg, var(--primary-blue) 0%, var(--primary-cyan) 100%);
+  background: linear-gradient(90deg, #1a4895 0%, #38bdf8 100%);
   border-radius: 2px;
   transition: width 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .nav-link:hover,
 .nav-link.active {
-  color: var(--primary-blue);
+  color: #ffffff;
   font-weight: 600;
 }
 
 .nav-link:hover .nav-link-icon,
 .nav-link.active .nav-link-icon {
-  color: var(--primary-cyan);
+  color: #38bdf8;
 }
 
 .nav-link:hover .nav-link-icon svg {
-  transform: translateY(-1px);
+  transform: translateY(-2px);
 }
 
 .nav-link:hover::after,
@@ -231,12 +246,12 @@ button {
   gap: 8px;
   font-size: 0.88rem;
   font-weight: 600;
-  color: var(--text-dim);
+  color: #cbd5e1;
   transition: color var(--transition-fast);
 }
 
 .nav-contact-tel:hover {
-  color: var(--primary-blue);
+  color: #38bdf8;
 }
 
 .btn-nav-cta {
@@ -245,13 +260,14 @@ button {
   gap: 8px;
   padding: 10px 22px;
   border-radius: 9999px;
-  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-cyan) 100%);
+  background: var(--grad-blue-vibrant);
   color: #ffffff;
   font-family: var(--font-display);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 600;
-  letter-spacing: -0.005em;
-  box-shadow: 0 4px 14px rgba(34, 150, 211, 0.28);
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 18px rgba(34, 150, 211, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   transition: all var(--transition-fast);
 }
 
